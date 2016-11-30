@@ -23,8 +23,8 @@
 - CSS, Sass
 - ECMAScript 2016+
 - C
+- C#
 - SQL
-
 
 - 日本語
   - ネイティブ
