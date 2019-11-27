@@ -5,6 +5,7 @@
 |key|value|
 |---|-----|
 |Name|新見晃平(Kohei Niimi)|
+|Homepage|[gupuru.com](https://gupuru.com/)|
 |Blog|[gupuru.hatenablog.jp](http://gupuru.hatenablog.jp/)|
 |Twitter|[@gupuru](https://twitter.com/gupuru)|
 |Qiita|[gupuru](http://qiita.com/gupuru)|
@@ -14,9 +15,10 @@
 
 ### 言語
 
-- Swift
-- Java
 - Kotlin
+- JAVA
+- Swift
+- TypeScript
 - Go
 - PHP
 - HTML
